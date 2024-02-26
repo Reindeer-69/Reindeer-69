@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Randolf</h1>
 <h3 align="center">A student who dreams of becoming a full-stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reindeer-69&label=Profile%20views&color=0e75b6&style=flat" alt="reindeer-69" /> </p>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/89414c256cf57ce456ae2b6f81427eeebb80002ec16e5f14bfad1df4cfff9d4a/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6b6973656b6969693235266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/89414c256cf57ce456ae2b6f81427eeebb80002ec16e5f14bfad1df4cfff9d4a/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6b6973656b6969693235266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="kisekiii25" data-canonical-src="https://komarev.com/ghpvc/?username=kisekiii25&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a>
 
 - 🌱 I’m currently learning **Java, HTML, CSS and JavaScript**
 
